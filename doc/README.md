@@ -1,5 +1,4 @@
-Unioncoin 1.0.1
-====================
+Unioncoin v0.0.1 beta
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
